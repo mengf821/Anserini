@@ -200,6 +200,10 @@
               <mainClass>io.anserini.qa.RetrieveSentences</mainClass>
               <name>RetrieveSentences</name>
             </program>
+            <program>
+              <mainClass>io.anserini.qa.RetrieveDocuments</mainClass>
+              <name>RetrieveDocuments</name>
+            </program>
           </programs>
         </configuration>
       </plugin>
